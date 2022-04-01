@@ -5,19 +5,15 @@ Iaroslav <iaroslavkrasikov@icloud.com>
 Rafael Zhdanov <rrzhdanov@edu.hse.ru>
 Ovechkina Anastasiua <arovechkina@edu.hse.ru>
 Bortnikova Alina <BortnikovaAlina>
-Daniil Andreev <ddandreev@edu.hse.ru>
-KozlArt <alkozlov@edu.hse.ru>
-Alisa <arshikanyan@edu.hse.ru>
-Matienko Dmitry <www.goldenisle@yandex.ru>
-Tiltovskii <benderabenderabendera@gmail.com>
-Nogaromo <goryanoy.egor@gmail.com>
-Dmitriy Vasiliev <whereismymind2000@mail.ru>
 Kamenskaya Taisia <takamenskaya@edu.hse.ru>
+KozlArt <alkozlov@edu.hse.ru>
 Dariia Kossova <dakossova@edu.hse.ru>
 Konkin Alex <koshkinaav18@gmail.com>
 Anuar Sagymbayev <superfunnygun@gmail.com>
 Sergey Baginskiy <baginskiy.nhs@gmail.com>
 ErikGaniev <eik.ganiev2000@gmail.com>
+congerian <87654933+congerian@users.noreply.github.com>
+PoncratovaD <poncratova.d@gmail.com>
 tumencevmm <tumencevmm@gmail.com>
 congerian <87654933+congerian@users.noreply.github.com>
 PoncratovaD <poncratova.d@gmail.com>
@@ -29,4 +25,6 @@ Konanykhin Mikhail <makonanykhin@edu.hse.ru>
 Vlad <vemamontov@edu.hse.ru>
 Ilya Golubev <edgolubev@edu.hse.ru>
 Adilia Iafarova <adilia.iafarova@gmail.com>
+Ovechkina Anastasiua <arovechkina@edu.hse.ru>
+
 
