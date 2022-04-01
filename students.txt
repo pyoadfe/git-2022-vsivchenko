@@ -1,3 +1,4 @@
+Kirill Sokolov <kbsokolov@edu.hse.ru>
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
 Rafael Zhdanov <rrzhdanov@edu.hse.ru>
@@ -17,7 +18,6 @@ KozlArt <alkozlov@edu.hse.ru>
 Dariia Kossova <dakossova@edu.hse.ru>
 ErikGaniev <eik.ganiev2000@gmail.com>
 Vitaly Ivchenko <vsivchenko@edu.hse.ru>
-"Kirill Sokolov <kbsokolov@edu.hse.ru>"
 congerian <87654933+congerian@users.noreply.github.com>
 Konanykhin Mikhail <makonanykhin@edu.hse.ru>
 Ovechkina Anastasiua <arovechkina@edu.hse.ru>
