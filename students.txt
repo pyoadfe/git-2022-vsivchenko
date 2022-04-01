@@ -1,1 +1,1 @@
-Konstantin Malanchev <hombit@gmail.com>
+"Kirill Sokolov <kbsokolov@edu.hse.ru>"
