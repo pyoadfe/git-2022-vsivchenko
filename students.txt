@@ -1,4 +1,3 @@
-Konstantin Malanchev <hombit@gmail.com>
 Ovechkina Anastasiua <arovechkina@edu.hse.ru>
 Bortnikova Alina <BortnikovaAlina>
 Kozlov Kirill <kykozlov@gmail.com>
@@ -27,3 +26,4 @@ Konkin Alex <koshkinaav18@gmail.com>
 Sofia Andronenko <seandronenko@edu.hse.ru>
 Konanykhin Mikhail <makonanykhin@edu.hse.ru>
 Ilya Golubev <edgolubev@edu.hse.ru>
+Ivan Krastilevskiy <krastilevskiyivan@gmail.com>
