@@ -4,6 +4,7 @@ congerian <87654933+congerian@users.noreply.github.com>
 ErikGaniev <eik.ganiev2000@gmail.com>
 Alisa <arshikanyan@edu.hse.ru>
 Vitaly Ivchenko <vsivchenko@edu.hse.ru>
+Iaroslav <iaroslavkrasikov@icloud.com>
 Daniil Andreev <ddandreev@edu.hse.ru>
 Matienko Dmitry <www.goldenisle@yandex.ru>
 Tiltovskii <benderabenderabendera@gmail.com>
@@ -17,4 +18,3 @@ Kamenskaya Taisia <takamenskaya@edu.hse.ru>
 Dariia Kossova <dakossova@edu.hse.ru>
 Anuar Sagymbayev <superfunnygun@gmail.com>
 Sergey Baginskiy <baginskiy.nhs@gmail.com>
-
