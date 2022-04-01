@@ -14,6 +14,7 @@ Kozlov Kirill <kykozlov@gmail.com>
 Vitaly Ivchenko <vsivchenko@edu.hse.ru>
 Iaroslav <iaroslavkrasikov@icloud.com>
 Dmitriy Vasiliev <whereismymind2000@mail.ru>
+Rafael Zhdanov <rrzhdanov@edu.hse.ru>
 KozlArt <alkozlov@edu.hse.ru>
 Konkin Alex <koshkinaav18@gmail.com>
 Tiltovskii <benderabenderabendera@gmail.com>
