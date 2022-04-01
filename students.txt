@@ -12,8 +12,8 @@ congerian <87654933+congerian@users.noreply.github.com>
 Nogaromo <goryanoy.egor@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
 Matienko Dmitry <www.goldenisle@yandex.ru>
-Kamenskaya Taisia <takamenskaya@edu.hse.ru>
 PoncratovaD <poncratova.d@gmail.com>
+Kamenskaya Taisia <takamenskaya@edu.hse.ru>
 Ovechkina Anastasiua <arovechkina@edu.hse.ru>
 Kozlov Kirill <kykozlov@gmail.com>
 "Kirill Sokolov <kbsokolov@edu.hse.ru>"
