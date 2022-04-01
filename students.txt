@@ -1,5 +1,6 @@
 Adilia Iafarova <adilia.iafarova@gmail.com>
 Alisa <arshikanyan@edu.hse.ru>
+Anastasia Yagnych <aayagnych@edu.hse.ru>
 Anuar Sagymbayev <superfunnygun@gmail.com>
 Bortnikova Alina <BortnikovaAlina>
 Daniil Andreev <ddandreev@edu.hse.ru>
@@ -28,5 +29,3 @@ Vitaly Ivchenko <vsivchenko@edu.hse.ru>
 Vlad <vemamontov@edu.hse.ru>
 congerian <87654933+congerian@users.noreply.github.com>
 tumencevmm <tumencevmm@gmail.com>
-
-
