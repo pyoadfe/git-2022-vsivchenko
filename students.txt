@@ -1,4 +1,4 @@
-"Kirill Sokolov <kbsokolov@edu.hse.ru>"
+Kirill Sokolov <kbsokolov@edu.hse.ru>
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
 Iaroslav <iaroslavkrasikov@icloud.com>
@@ -18,4 +18,6 @@ Anuar Sagymbayev <superfunnygun@gmail.com>
 Sergey Baginskiy <baginskiy.nhs@gmail.com>
 congerian <87654933+congerian@users.noreply.github.com>
 PoncratovaD <poncratova.d@gmail.com>
+tumencevmm <tumencevmm@gmail.com>
+Sofia Andronenko <seandronenko@edu.hse.ru>
 
