@@ -1,3 +1,4 @@
+Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
 Daniil Andreev <ddandreev@edu.hse.ru>
 Matienko Dmitry <www.goldenisle@yandex.ru>
@@ -5,5 +6,5 @@ Tiltovskii <benderabenderabendera@gmail.com>
 Nogaromo <goryanoy.egor@gmail.com>
 Alisa <arshikanyan@edu.hse.ru>
 Dmitriy Vasiliev <whereismymind2000@mail.ru>
-
+KozlArt <alkozlov@edu.hse.ru>
 
