@@ -10,7 +10,6 @@ Konstantin Malanchev <hombit@gmail.com>
 Ovechkina Anastasiua <arovechkina@edu.hse.ru>
 Rafael Zhdanov <rrzhdanov@edu.hse.ru>
 Iaroslav <iaroslavkrasikov@icloud.com>
->>>>>>> 47dbc4d5a64225d674679a09a2240ebc6741b06c
 Daniil Andreev <ddandreev@edu.hse.ru>
 KozlArt <alkozlov@edu.hse.ru>
 Alisa <arshikanyan@edu.hse.ru>
@@ -30,4 +29,8 @@ PoncratovaD <poncratova.d@gmail.com>
 Vitaly Ivchenko <vsivchenko@edu.hse.ru>
 Konkin Alex <koshkinaav18@gmail.com>
 Konanykhin Mikhail <makonanykhin@edu.hse.ru>
+Ovechkina Anastasiua <arovechkina@edu.hse.ru>
 Vlad <vemamontov@edu.hse.ru>
+Adilia Iafarova <adilia.iafarova@gmail.com>
+Ilya Golubev <edgolubev@edu.hse.ru>
+
