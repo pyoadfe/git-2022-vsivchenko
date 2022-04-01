@@ -27,5 +27,3 @@ tumencevmm <tumencevmm@gmail.com>
 Konanykhin Mikhail <makonanykhin@edu.hse.ru>
 Ovechkina Anastasiua <arovechkina@edu.hse.ru>
 
-
->>>>>>> fe45c7064d19611b812925ca8465511c843ff153
