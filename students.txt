@@ -1,4 +1,5 @@
 Konstantin Malanchev <hombit@gmail.com>
+Alisa <arshikanyan@edu.hse.ru>
 Dariia Kossova <dakossova@edu.hse.ru>
 Kirill Sokolov <kbsokolov@edu.hse.ru>
 Kozlov Kirill <kykozlov@gmail.com>
@@ -10,7 +11,6 @@ Tiltovskii <benderabenderabendera@gmail.com>
 Nogaromo <goryanoy.egor@gmail.com>
 ErikGaniev <eik.ganiev2000@gmail.com>
 Vitaly Ivchenko <vsivchenko@edu.hse.ru>
-Alisa <arshikanyan@edu.hse.ru>
 Dmitriy Vasiliev <whereismymind2000@mail.ru>
 KozlArt <alkozlov@edu.hse.ru>
 Kamenskaya Taisia <takamenskaya@edu.hse.ru>
@@ -22,3 +22,6 @@ PoncratovaD <poncratova.d@gmail.com>
 tumencevmm <tumencevmm@gmail.com>
 Bortnikova Alina <BortnikovaAlina>
 Vlad <vemamontov@edu.hse.ru>
+Sergey Baginskiy <baginskiy.nhs@gmail.com>
+congerian <87654933+congerian@users.noreply.github.com>
+Bortnikova Alina <BortnikovaAlina>
