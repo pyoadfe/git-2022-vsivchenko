@@ -2,7 +2,6 @@ Kirill Sokolov <kbsokolov@edu.hse.ru>
 Konstantin Malanchev <hombit@gmail.com>
 Mazulova Elizaveta <lmazulova@bk.ru>
 Kozlov Kirill <kykozlov@gmail.com>
-Konstantin Malanchev <hombit@gmail.com>
 Adilia Iafarova <adilia.iafarova@gmail.com>
 PoncratovaD <poncratova.d@gmail.com>
 Iaroslav <iaroslavkrasikov@icloud.com>
@@ -28,7 +27,5 @@ tumencevmm <tumencevmm@gmail.com>
 Sofia Andronenko <seandronenko@edu.hse.ru>
 Konanykhin Mikhail <makonanykhin@edu.hse.ru>
 Ilya Golubev <idgolubev@edu.hse.ru>
-tumencevmm <tumencevmm@gmail.com>
-Nogaromo <goryanoy.egor@gmail.com>
 Ovechkina Anastasiua <arovechkina@edu.hse.ru>
 Anastasia Yagnych <aayagnych@edu.hse.ru>
