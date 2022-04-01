@@ -1,2 +1,3 @@
 Konstantin Malanchev <hombit@gmail.com>
 Daniil Andreev <ddandreev@edu.hse.ru>
+Sergey Baginskiy <baginskiy.nhs@gmail.com>
