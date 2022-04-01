@@ -1,8 +1,10 @@
+"Kirill Sokolov <kbsokolov@edu.hse.ru>"
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
 Konanykhin Mikhail <makonanykhin@edu.hse.ru>
 Kamenskaya Taisia <takamenskaya@edu.hse.ru>
 Iaroslav <iaroslavkrasikov@icloud.com>
+Rafael Zhdanov <rrzhdanov@edu.hse.ru>
 Daniil Andreev <ddandreev@edu.hse.ru>
 Matienko Dmitry <www.goldenisle@yandex.ru>
 Tiltovskii <benderabenderabendera@gmail.com>
@@ -13,6 +15,10 @@ Alisa <arshikanyan@edu.hse.ru>
 Dmitriy Vasiliev <whereismymind2000@mail.ru>
 KozlArt <alkozlov@edu.hse.ru>
 Dariia Kossova <dakossova@edu.hse.ru>
+Konkin Alex <koshkinaav18@gmail.com>
 Anuar Sagymbayev <superfunnygun@gmail.com>
 Sergey Baginskiy <baginskiy.nhs@gmail.com>
 congerian <87654933+congerian@users.noreply.github.com>
+PoncratovaD <poncratova.d@gmail.com>
+tumencevmm <tumencevmm@gmail.com>
+Bortnikova Alina <BortnikovaAlina>
