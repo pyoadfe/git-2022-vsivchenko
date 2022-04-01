@@ -1,6 +1,5 @@
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
-<<<<<<< HEAD
 Daniil Andreev <ddandreev@edu.hse.ru>
 Matienko Dmitry <www.goldenisle@yandex.ru>
 Tiltovskii <benderabenderabendera@gmail.com>
