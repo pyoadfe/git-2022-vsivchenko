@@ -1,6 +1,10 @@
+Kirill Sokolov <kbsokolov@edu.hse.ru>
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
+<<<<<<< HEAD
 Iaroslav <iaroslavkrasikov@icloud.com>
+=======
+>>>>>>> andreev-dd
 Daniil Andreev <ddandreev@edu.hse.ru>
 KozlArt <alkozlov@edu.hse.ru>
 Alisa <arshikanyan@edu.hse.ru>
@@ -12,7 +16,19 @@ Dariia Kossova <dakossova@edu.hse.ru>
 ErikGaniev <eik.ganiev2000@gmail.com>
 Vitaly Ivchenko <vsivchenko@edu.hse.ru>
 Kamenskaya Taisia <takamenskaya@edu.hse.ru>
+<<<<<<< HEAD
 Anuar Sagymbayev <superfunnygun@gmail.com>
 Sergey Baginskiy <baginskiy.nhs@gmail.com>
 Konkin Alex <koshkinaav18@gmail.com>
 congerian <87654933+congerian@users.noreply.github.com>
+=======
+Dariia Kossova <dakossova@edu.hse.ru>
+Konkin Alex <koshkinaav18@gmail.com>
+Anuar Sagymbayev <superfunnygun@gmail.com>
+Sergey Baginskiy <baginskiy.nhs@gmail.com>
+congerian <87654933+congerian@users.noreply.github.com>
+PoncratovaD <poncratova.d@gmail.com>
+tumencevmm <tumencevmm@gmail.com>
+Sofia Andronenko <seandronenko@edu.hse.ru>
+
+>>>>>>> andreev-dd
