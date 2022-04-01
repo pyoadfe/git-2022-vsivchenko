@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
 Daniil Andreev <ddandreev@edu.hse.ru>
+KozlArt <alkozlov@edu.hse.ru>
 
