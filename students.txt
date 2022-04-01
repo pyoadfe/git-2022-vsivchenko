@@ -1,16 +1,33 @@
+Kirill Sokolov <kbsokolov@edu.hse.ru>
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
 Matienko Dmitry <www.goldenisle@yandex.ru>
 Konkin Alex <koshkinaav18@gmail.com>
 ErikGaniev <eik.ganiev2000@gmail.com>
 Kamenskaya Taisia <takamenskaya@edu.hse.ru>
+Iaroslav <iaroslavkrasikov@icloud.com>
+Konstantin Malanchev <hombit@gmail.com>
+Ovechkina Anastasiua <arovechkina@edu.hse.ru>
+Rafael Zhdanov <rrzhdanov@edu.hse.ru>
+Iaroslav <iaroslavkrasikov@icloud.com>
+>>>>>>> 47dbc4d5a64225d674679a09a2240ebc6741b06c
 Daniil Andreev <ddandreev@edu.hse.ru>
+KozlArt <alkozlov@edu.hse.ru>
+Alisa <arshikanyan@edu.hse.ru>
 Matienko Dmitry <www.goldenisle@yandex.ru>
 Tiltovskii <benderabenderabendera@gmail.com>
 Nogaromo <goryanoy.egor@gmail.com>
-ErikGaniev <eik.ganiev2000@gmail.com>
-Vitaly Ivchenko <vsivchenko@edu.hse.ru>
-Alisa <arshikanyan@edu.hse.ru>
 Dmitriy Vasiliev <whereismymind2000@mail.ru>
-KozlArt <alkozlov@edu.hse.ru>
+Kamenskaya Taisia <takamenskaya@edu.hse.ru>
+Anuar Sagymbayev <superfunnygun@gmail.com>
+Sergey Baginskiy <baginskiy.nhs@gmail.com>
+congerian <87654933+congerian@users.noreply.github.com>
+Sofia Andronenko <seandronenko@edu.hse.ru>
 Dariia Kossova <dakossova@edu.hse.ru>
+Bortnikova Alina <BortnikovaAlina>
+ErikGaniev <eik.ganiev2000@gmail.com>
+PoncratovaD <poncratova.d@gmail.com>
+Vitaly Ivchenko <vsivchenko@edu.hse.ru>
+Konkin Alex <koshkinaav18@gmail.com>
+Konanykhin Mikhail <makonanykhin@edu.hse.ru>
+Vlad <vemamontov@edu.hse.ru>
