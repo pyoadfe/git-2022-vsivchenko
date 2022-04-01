@@ -4,7 +4,6 @@ Konstantin Malanchev <hombit@gmail.com>
 Iaroslav <iaroslavkrasikov@icloud.com>
 Konstantin Malanchev <hombit@gmail.com>
 Ovechkina Anastasiua <arovechkina@edu.hse.ru>
-Bortnikova Alina <BortnikovaAlina>
 Rafael Zhdanov <rrzhdanov@edu.hse.ru>
 Iaroslav <iaroslavkrasikov@icloud.com>
 Daniil Andreev <ddandreev@edu.hse.ru>
