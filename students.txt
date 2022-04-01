@@ -1,5 +1,6 @@
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
+<<<<<<< HEAD
 Iaroslav <iaroslavkrasikov@icloud.com>
 Daniil Andreev <ddandreev@edu.hse.ru>
 KozlArt <alkozlov@edu.hse.ru>
@@ -16,3 +17,4 @@ PoncratovaD <poncratova.d@gmail.com>
 Sofia Andronenko <seandronenko@edu.hse.ru>
 Anuar Sagymbayev <superfunnygun@gmail.com>
 Sergey Baginskiy <baginskiy.nhs@gmail.com>
+Bortnikova Alina <BortnikovaAlina>
