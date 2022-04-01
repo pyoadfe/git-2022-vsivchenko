@@ -2,6 +2,7 @@
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
 Iaroslav <iaroslavkrasikov@icloud.com>
+Rafael Zhdanov <rrzhdanov@edu.hse.ru>
 Daniil Andreev <ddandreev@edu.hse.ru>
 Matienko Dmitry <www.goldenisle@yandex.ru>
 Tiltovskii <benderabenderabendera@gmail.com>
@@ -19,3 +20,4 @@ Sergey Baginskiy <baginskiy.nhs@gmail.com>
 congerian <87654933+congerian@users.noreply.github.com>
 PoncratovaD <poncratova.d@gmail.com>
 tumencevmm <tumencevmm@gmail.com>
+Bortnikova Alina <BortnikovaAlina>
