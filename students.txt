@@ -2,3 +2,4 @@ Konstantin Malanchev <hombit@gmail.com>
 Tiltovskii <benderabenderabendera@gmail.com>
 Nogaromo <goryanoy.egor@gmail.com>
 ErikGaniev <eik.ganiev2000@gmail.com>
+Vitaly Ivchenko <vsivchenko@edu.hse.ru>
