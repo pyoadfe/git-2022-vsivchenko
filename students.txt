@@ -16,6 +16,7 @@ Kozlov Kirill <kykozlov@gmail.com>
 "Kirill Sokolov <kbsokolov@edu.hse.ru>"
 Vitaly Ivchenko <vsivchenko@edu.hse.ru>
 Iaroslav <iaroslavkrasikov@icloud.com>
+Vlad <vemamontov@edu.hse.ru>
 Dmitriy Vasiliev <whereismymind2000@mail.ru>
 Rafael Zhdanov <rrzhdanov@edu.hse.ru>
 KozlArt <alkozlov@edu.hse.ru>
