@@ -20,3 +20,4 @@ Vitaly Ivchenko <vsivchenko@edu.hse.ru>
 congerian <87654933+congerian@users.noreply.github.com>
 Konanykhin Mikhail <makonanykhin@edu.hse.ru>
 Ovechkina Anastasiua <arovechkina@edu.hse.ru>
+Bortnikova Alina <BortnikovaAlina>
