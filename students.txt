@@ -9,7 +9,6 @@ Matienko Dmitry <www.goldenisle@yandex.ru>
 Tiltovskii <benderabenderabendera@gmail.com>
 Nogaromo <goryanoy.egor@gmail.com>
 ErikGaniev <eik.ganiev2000@gmail.com>
-Vitaly Ivchenko <vsivchenko@edu.hse.ru>
 Alisa <arshikanyan@edu.hse.ru>
 Dmitriy Vasiliev <whereismymind2000@mail.ru>
 KozlArt <alkozlov@edu.hse.ru>
@@ -23,4 +22,8 @@ Vlad <vemamontov@edu.hse.ru>
 tumencevmm <tumencevmm@gmail.com>
 Sofia Andronenko <seandronenko@edu.hse.ru>
 Bortnikova Alina <BortnikovaAlina>
-
+Ilya Golubev <idgolubev@edu.hse.ru>
+Ovechkina Anastasiua <arovechkina@edu.hse.ru>
+Vitaly Ivchenko <vsivchenko@edu.hse.ru>
+Konanykhin Mikhail <makonanykhin@edu.hse.ru>
+Adilia Iafarova <adilia.iafarova@gmail.com>
