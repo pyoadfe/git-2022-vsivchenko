@@ -1,8 +1,7 @@
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
-<<<<<<< HEAD
-<<<<<<< HEAD
 Iaroslav <iaroslavkrasikov@icloud.com>
+Rafael Zhdanov <rrzhdanov@edu.hse.ru>
 Daniil Andreev <ddandreev@edu.hse.ru>
 KozlArt <alkozlov@edu.hse.ru>
 Alisa <arshikanyan@edu.hse.ru>
@@ -20,3 +19,8 @@ Anuar Sagymbayev <superfunnygun@gmail.com>
 Sergey Baginskiy <baginskiy.nhs@gmail.com>
 Bortnikova Alina <BortnikovaAlina>
 tumencevmm <tumencevmm@gmail.com>
+Kamenskaya Taisia <takamenskaya@edu.hse.ru>
+Vitaly Ivchenko <vsivchenko@edu.hse.ru>
+"Kirill Sokolov <kbsokolov@edu.hse.ru>"
+Konanykhin Mikhail <makonanykhin@edu.hse.ru>
+Ovechkina Anastasiua <arovechkina@edu.hse.ru>
