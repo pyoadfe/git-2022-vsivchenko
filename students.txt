@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Kozlov Kirill <kykozlov@gmail.com>
 Konstantin Malanchev <hombit@gmail.com>
 Daniil Andreev <ddandreev@edu.hse.ru>
@@ -10,3 +9,4 @@ Nogaromo <goryanoy.egor@gmail.com>
 Dmitriy Vasiliev <whereismymind2000@mail.ru>
 Dariia Kossova <dakossova@edu.hse.ru>
 ErikGaniev <eik.ganiev2000@gmail.com>
+Vitaly Ivchenko <vsivchenko@edu.hse.ru>
