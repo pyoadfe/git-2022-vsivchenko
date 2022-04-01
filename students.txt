@@ -1,6 +1,4 @@
 Konstantin Malanchev <hombit@gmail.com>
-Ovechkina Anastasiua <arovechkina@edu.hse.ru>
-Konstantin Malanchev <hombit@gmail.com>
 Kirill Sokolov <kbsokolov@edu.hse.ru>
 Kozlov Kirill <kykozlov@gmail.com>
 Rafael Zhdanov <rrzhdanov@edu.hse.ru>
